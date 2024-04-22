@@ -2,8 +2,8 @@
 
 #variable declarations
 NameSpace="sre"
-DeploymentName ="swype-app"
-MaxRestarts = 3
+DeploymentName="swype-app"
+MaxRestarts=3
 
 #starting the loop and run it indefinetly 
 
